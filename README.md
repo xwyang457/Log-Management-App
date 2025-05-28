@@ -5,26 +5,22 @@ A simple log management tool built with React. It supports creating, displaying,
 
 ---
 
-## 🧩 Features | 功能亮点
-
+**🧩 Features | 功能亮点**
+```text
 - ✅ Add logs (with date, description, and time spent)  
   添加日志（包括日期、描述和耗时）
-
-- ✅ Delete logs with confirmation modal  
-  删除日志前弹出确认框
-
-- ✅ Filter logs by keyword  
-  支持关键词筛选日志
-
-- ✅ Custom date formatting component  
+- 🗑️ Delete logs with confirmation modal  
+  删除日志（带确认弹窗）
+- 🔍 Filter logs by keyword  
+  根据关键词过滤日志
+- 🗓️ Custom date formatting component  
   自定义日期格式组件
+- 🧱 Modularized and reusable component structure  
+  模块化、可复用的组件结构
 
-- ✅ Modularized and reusable component structure  
-  组件结构模块化、可复用
 
----
 
-📁 Project Structure | 项目结构
+**📁 Project Structure | 项目结构**
 
 ```text
 ├── public/
@@ -48,9 +44,12 @@ A simple log management tool built with React. It supports creating, displaying,
 
 ---
 
-🛠️ Getting Started | 启动项目
 
-### 1️⃣ 安装依赖 | Install dependencies
+
+
+**🛠️ Getting Started | 启动项目**
+
+### 1️⃣ Install dependencies | 安装依赖
 
 ```bash
 yarn install
