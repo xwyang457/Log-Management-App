@@ -45,26 +45,24 @@ A simple log management tool built with React. It supports creating, displaying,
 ---
 
 
-
-
 **🛠️ Getting Started | 启动项目**
 
-### 1️⃣ Install dependencies | 安装依赖
+1️⃣ Install dependencies | 安装依赖
 
 ```bash
 yarn install
 # or
 npm install
 
-### 2️⃣ Start development server | 启动开发服务器
-
+2️⃣ Start development server | 启动开发服务器
 ```bash
 yarn start
 # or
 npm start
 
 
-## 🖼️ Preview | 项目预览
+**🖼️ Preview | 项目预览**
+
 The UI includes:
 Input forms
 A log list
