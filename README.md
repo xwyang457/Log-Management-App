@@ -26,3 +26,52 @@ A simple log management tool built with React. It supports creating, displaying,
 
 ## 📁 Project Structure | 项目结构
 
+├── public/
+│ └── index.html
+├── src/
+│ ├── App.js
+│ ├── index.js
+│ ├── index.css
+│ ├── components/
+│ │ ├── Logs.js # 日志容器
+│ │ ├── LogItem.js # 单条日志
+│ │ ├── LogsForm.js # 新增日志表单
+│ │ ├── LogFilter.js # 日志筛选组件
+│ │ ├── MyDate.js # 自定义日期组件
+│ │ ├── UI/
+│ │ │ ├── Card.js # 卡片组件
+│ │ │ ├── Backdrop.js # 背景遮罩
+│ │ │ └── ConfirmModal.js # 确认对话框
+├── package.json
+└── yarn.lock
+
+---
+
+## 🛠️ Getting Started | 启动项目
+
+### 1️⃣ 安装依赖 | Install dependencies
+
+```bash
+yarn install
+# or
+npm install
+
+### 2️⃣ Start development server | 启动开发服务器
+
+```bash
+yarn start
+# or
+npm start
+
+🖼️ Preview | 项目预览
+The UI includes:
+Input forms
+A log list
+A filter bar
+
+界面包括：
+输入表单
+日志列表
+筛选栏
+
+
