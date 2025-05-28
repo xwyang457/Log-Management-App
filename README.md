@@ -26,24 +26,26 @@ A simple log management tool built with React. It supports creating, displaying,
 
 ## 📁 Project Structure | 项目结构
 
+```text
 ├── public/
-│   └── index.html               
+│   └── index.html
 ├── src/
-│   ├── App.js                   
-│   ├── index.js                
-│   ├── index.css               
+│   ├── App.js                   # Log app root | 应用入口
+│   ├── index.js                # Entry point | React 渲染入口
+│   ├── index.css               # Global styles | 全局样式
 │   ├── components/
-│   │   ├── Logs.js
-│   │   ├── LogItem.js
-│   │   ├── LogsForm.js
-│   │   ├── LogFilter.js
-│   │   ├── MyDate.js
+│   │   ├── Logs.js              # Log container | 日志容器
+│   │   ├── LogItem.js           # Single log item | 单条日志
+│   │   ├── LogsForm.js          # New log form | 新增日志表单
+│   │   ├── LogFilter.js         # Filter component | 日志筛选组件
+│   │   ├── MyDate.js            # Custom date renderer | 自定义日期组件
 │   │   ├── UI/
-│   │   │   ├── Card.js
-│   │   │   ├── Backdrop.js
-│   │   │   └── ConfirmModal.js
+│   │   │   ├── Card.js          # Card wrapper | 卡片组件
+│   │   │   ├── Backdrop.js      # Overlay mask | 背景遮罩
+│   │   │   └── ConfirmModal.js  # Confirm dialog | 确认对话框
 ├── package.json
 └── yarn.lock
+
 
 
 ---
