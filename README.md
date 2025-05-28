@@ -49,15 +49,11 @@ A simple log management tool built with React. It supports creating, displaying,
 
 1️⃣ Install dependencies | 安装依赖
 
-```bash
 yarn install
-# or
 npm install
 
 2️⃣ Start development server | 启动开发服务器
-```bash
 yarn start
-# or
 npm start
 
 
