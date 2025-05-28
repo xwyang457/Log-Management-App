@@ -7,6 +7,7 @@ A simple log management tool built with React. It supports creating, displaying,
 
 ## 🧩 Features | 功能亮点
 
+```text
 - ✅ Add logs (with date, description, and time spent)  
   添加日志（包括日期、描述和耗时）
 
