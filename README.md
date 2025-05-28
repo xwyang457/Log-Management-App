@@ -25,6 +25,8 @@ A simple log management tool built with React. It supports creating, displaying,
 
 ---
 
+
+
 ## 📁 Project Structure | 项目结构
 
 ```text
@@ -67,7 +69,8 @@ yarn start
 # or
 npm start
 
-🖼️ Preview | 项目预览
+
+## 🖼️ Preview | 项目预览
 The UI includes:
 Input forms
 A log list
