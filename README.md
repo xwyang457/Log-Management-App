@@ -7,7 +7,6 @@ A simple log management tool built with React. It supports creating, displaying,
 
 ## 🧩 Features | 功能亮点
 
-```text
 - ✅ Add logs (with date, description, and time spent)  
   添加日志（包括日期、描述和耗时）
 
@@ -25,9 +24,7 @@ A simple log management tool built with React. It supports creating, displaying,
 
 ---
 
-
-
-## 📁 Project Structure | 项目结构
+📁 Project Structure | 项目结构
 
 ```text
 ├── public/
@@ -49,11 +46,9 @@ A simple log management tool built with React. It supports creating, displaying,
 ├── package.json
 └── yarn.lock
 
-
-
 ---
 
-## 🛠️ Getting Started | 启动项目
+🛠️ Getting Started | 启动项目
 
 ### 1️⃣ 安装依赖 | Install dependencies
 
